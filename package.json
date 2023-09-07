@@ -16,7 +16,8 @@
     "@strapi/strapi": "4.13.3",
     "cloudinary": "^1.40.0",
     "node-postgres": "^0.6.2",
-    "pg": "8.8.0"
+    "pg": "8.8.0",
+    "strapi-google-translator": "^1.0.8"
   },
   "author": {
     "name": "A Strapi developer"
