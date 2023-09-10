@@ -66,14 +66,6 @@
           "localized": true
         }
       }
-    },
-    "toc": {
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      },
-      "type": "richtext"
     }
   }
 }
