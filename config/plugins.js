@@ -17,4 +17,8 @@ module.exports = ({ env }) => ({
       secure: true,
     },
   },
+  ckeditor: {
+    enabled: true,
+    resolve: "./src/plugins/strapi-plugin-ckeditor"
+  },
 });
